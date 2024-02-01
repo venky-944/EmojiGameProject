@@ -1,0 +1,19 @@
+/* Write your code here. */
+.container {
+  background-color: #6a59ff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.win-lose-card {
+  align-self: center;
+  margin-top: 150px;
+}
